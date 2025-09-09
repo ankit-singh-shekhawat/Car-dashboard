@@ -20,7 +20,7 @@ The goal is to visualize and analyze key KPIs, sales trends, and brand insights 
 
 
 ## 📸 Images
-![BMW Page](./images/BMW.jpg)
+![BMW Page](./images/BMW.png)
 ![AUDI Page](./images/AUDI.png)
 
 ## 🔗 Connect with Me
